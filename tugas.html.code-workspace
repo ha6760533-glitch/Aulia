@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../tugas.html"
+		},
+		{
+			"path": "../../OneDrive/Documents/belajar.html/index.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tugas.html",
+		"liveServer.settings.port": 5501
+	}
+}
